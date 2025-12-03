@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MAR-Z",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-03T04:59:25.160690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MAR-Z",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_MAR-Z_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MAR-Z",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/02_MAR-Z_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAR-Z",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_MAR-Z_マカロニえんぴつ.txt"
+    }
+  ]
+}
